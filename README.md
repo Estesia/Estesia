@@ -1,6 +1,6 @@
-<div align="center">
+![Visella Estesia — Stories, Creative Technology, Thoughtful Systems](./assets/banner.svg)
 
-# ୨୧ Visella Estesia ୨୧
+<div align="center">
 
 *Writer · Creator · Builder of thoughtful digital experiences*
 
