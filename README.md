@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Estesia/Estesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Visella Estesia
 
-Here are some ideas to get you started:
+*Writer · Creator · Builder of thoughtful digital experiences*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write stories, build creative tools, and explore ways technology can support imagination without replacing the human voice behind it.
+
+</div>
+
+---
+
+### Currently creating
+
+**NovelCompanion** — an AI-assisted writing studio designed around specialized creative roles for drafting, canon control, editorial review, visual direction, marketing, and project management.
+
+Alongside it, I experiment with local-first AI, personal software, and small systems that make creative work feel calmer, more intentional, and more personal.
+
+### What I care about
+
+Writing with emotional depth, building useful things with a clear purpose, and creating digital experiences that feel elegant rather than noisy.
+
+### Find me
+
+🌷 **Website:** [visella.vilesia.com](https://visella.vilesia.com)
+
+---
+
+<div align="center">
+
+*Stories first. Technology in service of them.*
+
+</div>
