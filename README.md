@@ -1,26 +1,39 @@
 <div align="center">
 
-# Visella Estesia
+# ୨୧ Visella Estesia ୨୧
 
 *Writer · Creator · Builder of thoughtful digital experiences*
 
-I write stories, build creative tools, and explore ways technology can support imagination without replacing the human voice behind it.
+**Stories first. Technology in service of them.**
 
 </div>
 
 ---
 
-### Currently creating
+### ✦ Hello
 
-**NovelCompanion** — an AI-assisted writing studio designed around specialized creative roles for drafting, canon control, editorial review, visual direction, marketing, and project management.
+I'm **Visella Estesia**, a writer and creator who enjoys turning stories, ideas, and everyday creative problems into thoughtful digital projects.
 
-Alongside it, I experiment with local-first AI, personal software, and small systems that make creative work feel calmer, more intentional, and more personal.
+My work lives somewhere between **fiction, creative systems, and personal AI tools** — with a preference for things that feel calm, intentional, and human.
 
-### What I care about
+### ✦ Selected work
 
-Writing with emotional depth, building useful things with a clear purpose, and creating digital experiences that feel elegant rather than noisy.
+**NovelCompanion**  
+An AI-assisted creative studio for long-form fiction, designed around specialized roles for writing, canon control, editorial review, visuals, strategy, marketing, and project management.
 
-### Find me
+**Aveline**  
+A private local-first AI experiment exploring on-device inference, persistent identity, structured memory, and personal software that can grow without losing its sense of continuity.
+
+**Vilesia**  
+My wider creative home for writing, digital projects, and things I'm still quietly building.
+
+### ✦ Creative direction
+
+I care about emotional writing, elegant systems, useful technology, and tools that support creativity without overwhelming the person using them.
+
+> *Soft systems. Strong stories. Thoughtful technology.*
+
+### ✦ Find me
 
 🌷 **Website:** [visella.vilesia.com](https://visella.vilesia.com)
 
@@ -28,6 +41,6 @@ Writing with emotional depth, building useful things with a clear purpose, and c
 
 <div align="center">
 
-*Stories first. Technology in service of them.*
+<sub>Made with care by Visella Estesia.</sub>
 
 </div>
